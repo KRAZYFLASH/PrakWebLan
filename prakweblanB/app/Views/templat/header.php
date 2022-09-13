@@ -31,4 +31,5 @@
     </div>
   </div>
 </nav>
-    <h1><?= esc($title) ?></h1>
+    <h1 class="mt-3 ml-3"><?= esc($title) ?></h1>
+    <div class="p-4"></div>
