@@ -1,4 +1,4 @@
-<form>
+<form action="/store" method="post">
   <div class="form-group">
     <label for="npm" class="form-label" id="npm">NPM</label>
     <input type="text" name="npm" id="npm" class="form-control" id="npm">
